@@ -1,0 +1,24 @@
+{
+  "name": "winston-opbeat-transport",
+  "version": "1.0.0",
+  "description": "A Winston transport for Opbeat",
+  "main": "./lib/winston-opbeat-transport.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/francescotonini/winston-opbeat-transport"
+  },
+  "keywords": [
+    "winston",
+    "opbeat",
+    "logging"
+  ],
+  "author": "Francesco Tonini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francescotonini/winston-opbeat-transport/issues"
+  },
+  "homepage": "https://github.com/francescotonini/winston-opbeat-transport"
+}
