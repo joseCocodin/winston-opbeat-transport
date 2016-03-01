@@ -20,9 +20,5 @@
   "bugs": {
     "url": "https://github.com/francescotonini/winston-opbeat-transport/issues"
   },
-  "homepage": "https://github.com/francescotonini/winston-opbeat-transport",
-  "dependencies": {
-    "opbeat": "^3.6.4",
-    "winston": "^2.2.0"
-  }
+  "homepage": "https://github.com/francescotonini/winston-opbeat-transport"
 }
